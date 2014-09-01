@@ -1,0 +1,5 @@
+--- 
+name: mushroom
+format: MulticlassClassification
+description: 8124 examples, 111 features
+source: UCI Repository

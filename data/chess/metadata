@@ -1,0 +1,5 @@
+--- 
+name: chess-krkp
+format: MulticlassClassification
+description: 3196 examples, 38 features
+source: UCI Repository
